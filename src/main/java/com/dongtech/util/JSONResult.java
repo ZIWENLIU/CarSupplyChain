@@ -20,7 +20,6 @@ public class JSONResult {
     // 响应中的数据
     private Object data;
 
-
     public static JSONResult build(Integer status, String msg, Object data) {
         return new JSONResult(status, msg, data);
     }

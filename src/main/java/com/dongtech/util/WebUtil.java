@@ -16,7 +16,6 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class WebUtil {
 
-
     /**
      * 添加Cookie
      *

@@ -23,6 +23,5 @@ public interface CarVGoodsService {
 
     List<CartItem> queryCartItems();
 
-    List<CartItem> queryCartItemsL();
 
 }

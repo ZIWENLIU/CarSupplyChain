@@ -4,9 +4,6 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.Properties;
 
-/**
- * @Description: JDBC工具类
- */
 public class JDBCUtil {
 
 
