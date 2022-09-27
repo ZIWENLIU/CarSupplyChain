@@ -13,12 +13,6 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author gzl
- * @date 2020-04-16
- * @program: springboot-jsp
- * @description: ${description}
- */
 public class CarUtil {
 
 
