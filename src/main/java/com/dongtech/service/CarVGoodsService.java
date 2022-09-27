@@ -22,4 +22,7 @@ public interface CarVGoodsService {
     void saveTearDownDetailsOrders(TearDownDetails t);
 
     List<CartItem> queryCartItems();
+
+    List<CartItem> queryCartItemsL();
+
 }

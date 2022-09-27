@@ -7,6 +7,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 public interface CarGoodsDao {
+    //查询
     List<CarGoods> queryList(CarGoods carGoods);
 
     List<CarOrders> queryOrders();
